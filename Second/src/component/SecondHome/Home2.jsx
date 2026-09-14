@@ -53,7 +53,7 @@ function Home2() {
                             <button><a href="https://www.instagram.com/myusername"   target="_blank" rel="noopener noreferrer"><FontAwesomeIcon color="white" icon={faInstagram} size='5px' /></a></button>
                             <button><a href="https://wa.me/923246233787?text=Hello%2C%20I%20want%20to%20know%20more%20about%20your%20services!"   target="_blank" rel="noopener noreferrer"><FontAwesomeIcon color="white" icon={faWhatsapp} size='10px' /></a></button>
                             
-                            <button> <a href="/cv.pdf" download> <FontAwesomeIcon color="white" icon={faDownload} /> Download CV </a> </button>
+                            <button> <a href="/UIUX Desgin CV.pdf" download> <FontAwesomeIcon color="white" icon={faDownload} /> Download CV </a> </button>
                         </div>
                     </div>
                     <div className='right-hero-img'>
